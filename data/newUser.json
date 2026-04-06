@@ -1,0 +1,15 @@
+{
+    "first_name": "Harry",
+    "last_name": "Potter",
+    "email": "harrypotter@xyz.com",
+    "role": "Admin",
+    "address": {
+        "street": "123MainSt",
+        "city": "California",
+        "state": "CA",
+        "zip_code": 12345
+    },
+    "phone": "+1-462-1234",
+    "is_active": true,
+    "last_login": "2026-01-28T08:30:00Z"
+}

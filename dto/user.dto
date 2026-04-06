@@ -1,0 +1,18 @@
+export interface UserDto {
+  user_id: number;
+  first_name: string;
+  last_name: string;
+  email: string;
+  role: string;
+  address: AddressDto;
+  phone: string;
+  is_active: boolean;
+  last_login: string; // ISO date string
+}
+
+export interface AddressDto {
+  street: string;
+  city: string;
+  state: string;
+  zip_code: number;
+}

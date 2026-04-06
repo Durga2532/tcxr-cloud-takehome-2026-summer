@@ -1,1 +1,723 @@
-{"users":[{"user_id":1,"first_name":"John","last_name":"Doe","email":"johndoe@xyz.com","role":"User","address":{"street":"123MainSt","city":"NewYork","state":"NY","zip_code":10001},"phone":"+1-252-1234","is_active":true,"last_login":"2025-03-28T08:30:00Z"},{"user_id":2,"first_name":"Jane","last_name":"Smith","email":"janesmith@xyz.com","role":"User","address":{"street":"456OakSt","city":"SanFrancisco","state":"CA","zip_code":"94105"},"phone":"+1-252-5678","is_active":true,"last_login":"2025-04-25T14:45:00Z"},{"user_id":3,"first_name":"Alice","last_name":"Johnson","email":"alicej@xyz.com","role":"User","address":{"street":"789PineSt","city":"Chicago","state":"IL","zip_code":"60606"},"phone":"+1-252-8765","is_active":false,"last_login":"2025-07-29T10:20:00Z"},{"user_id":4,"first_name":"Bob","last_name":"Brown","email":"bobbrown@xyz.com","role":"User","address":{"street":"321ElmSt","city":"LosAngeles","state":"CA","zip_code":"90001"},"phone":"+1-252-4321","is_active":true,"last_login":"2026-09-27T16:00:00Z"},{"user_id":6,"first_name":"Alice","last_name":"Smith","email":"alicesmith@xyz.com","role":"User","address":{"street":"45OakAve","city":"Boston","state":"MA","zip_code":2108},"phone":"+1-617-2001","is_active":true,"last_login":"2025-03-29T09:10:00Z"},{"user_id":7,"first_name":"Brian","last_name":"Johnson","email":"brianjohnson@xyz.com","role":"Admin","address":{"street":"78PineRd","city":"Seattle","state":"WA","zip_code":98101},"phone":"+1-206-2002","is_active":true,"last_login":"2025-03-29T10:15:00Z"},{"user_id":8,"first_name":"Catherine","last_name":"Lee","email":"catherinelee@xyz.com","role":"User","address":{"street":"19MapleLn","city":"Chicago","state":"IL","zip_code":60601},"phone":"+1-312-2003","is_active":false,"last_login":"2025-03-27T14:20:00Z"},{"user_id":9,"first_name":"David","last_name":"Martinez","email":"davidmartinez@xyz.com","role":"User","address":{"street":"210SunsetBlvd","city":"LosAngeles","state":"CA","zip_code":90001},"phone":"+1-310-2004","is_active":true,"last_login":"2025-03-30T11:45:00Z"},{"user_id":10,"first_name":"Emily","last_name":"Clark","email":"emilyclark@xyz.com","role":"User","address":{"street":"33RiverSt","city":"Denver","state":"CO","zip_code":80202},"phone":"+1-303-2005","is_active":true,"last_login":"2025-03-29T16:05:00Z"},{"user_id":11,"first_name":"Frank","last_name":"Wright","email":"frankwright@xyz.com","role":"User","address":{"street":"11LakeView","city":"Madison","state":"WI","zip_code":53703},"phone":"+1-608-2006","is_active":true,"last_login":"2025-03-28T12:00:00Z"},{"user_id":12,"first_name":"Grace","last_name":"Harris","email":"graceharris@xyz.com","role":"User","address":{"street":"402ElmSt","city":"Austin","state":"TX","zip_code":73301},"phone":"+1-512-2007","is_active":true,"last_login":"2025-03-30T08:40:00Z"},{"user_id":13,"first_name":"Henry","last_name":"Nguyen","email":"henrynguyen@xyz.com","role":"User","address":{"street":"9Broadway","city":"NewYork","state":"NY","zip_code":10002},"phone":"+1-212-2008","is_active":false,"last_login":"2025-03-26T17:30:00Z"},{"user_id":14,"first_name":"Isabella","last_name":"Perez","email":"isabellaperez@xyz.com","role":"Admin","address":{"street":"77PalmDr","city":"Miami","state":"FL","zip_code":33101},"phone":"+1-305-2009","is_active":true,"last_login":"2025-03-31T09:55:00Z"},{"user_id":15,"first_name":"Jack","last_name":"Olsen","email":"jackolsen@xyz.com","role":"User","address":{"street":"55HillRd","city":"Portland","state":"OR","zip_code":97201},"phone":"+1-503-2010","is_active":true,"last_login":"2025-03-29T13:15:00Z"},{"user_id":16,"first_name":"Karen","last_name":"Adams","email":"karenadams@xyz.com","role":"User","address":{"street":"600MarketSt","city":"SanFrancisco","state":"CA","zip_code":94103},"phone":"+1-415-2011","is_active":true,"last_login":"2025-03-30T15:25:00Z"},{"user_id":17,"first_name":"Leo","last_name":"Baker","email":"leobaker@xyz.com","role":"User","address":{"street":"18CedarCt","city":"Boise","state":"ID","zip_code":83702},"phone":"+1-208-2012","is_active":false,"last_login":"2025-03-25T11:00:00Z"},{"user_id":18,"first_name":"Mia","last_name":"Turner","email":"miaturner@xyz.com","role":"User","address":{"street":"92GardenWay","city":"Salem","state":"OR","zip_code":97301},"phone":"+1-971-2013","is_active":true,"last_login":"2025-03-28T10:45:00Z"},{"user_id":19,"first_name":"Noah","last_name":"Kim","email":"noahkim@xyz.com","role":"User","address":{"street":"31UnionSq","city":"SanJose","state":"CA","zip_code":95112},"phone":"+1-408-2014","is_active":true,"last_login":"2025-03-29T18:20:00Z"},{"user_id":20,"first_name":"Olivia","last_name":"Brown","email":"oliviabrown@xyz.com","role":"User","address":{"street":"77BaySt","city":"Tampa","state":"FL","zip_code":33602},"phone":"+1-813-2015","is_active":true,"last_login":"2025-03-30T09:35:00Z"},{"user_id":21,"first_name":"Paul","last_name":"Reed","email":"paulreed@xyz.com","role":"User","address":{"street":"14SpruceLn","city":"Albany","state":"NY","zip_code":12207},"phone":"+1-518-2016","is_active":false,"last_login":"2025-03-26T16:10:00Z"},{"user_id":22,"first_name":"Quinn","last_name":"Foster","email":"quinnfoster@xyz.com","role":"User","address":{"street":"88RidgeRd","city":"Boulder","state":"CO","zip_code":80302},"phone":"+1-720-2017","is_active":true,"last_login":"2025-03-31T07:50:00Z"},{"user_id":23,"first_name":"Rachel","last_name":"Scott","email":"rachelscott@xyz.com","role":"Admin","address":{"street":"201CapitolAve","city":"Phoenix","state":"AZ","zip_code":85001},"phone":"+1-602-2018","is_active":true,"last_login":"2025-03-30T12:30:00Z"},{"user_id":24,"first_name":"Samuel","last_name":"Green","email":"samuelgreen@xyz.com","role":"User","address":{"street":"9ForestDr","city":"Asheville","state":"NC","zip_code":28801},"phone":"+1-828-2019","is_active":true,"last_login":"2025-03-29T08:20:00Z"},{"user_id":25,"first_name":"Tina","last_name":"Lopez","email":"tinalopez@xyz.com","role":"User","address":{"street":"410CanyonRd","city":"SantaFe","state":"NM","zip_code":87501},"phone":"+1-505-2020","is_active":true,"last_login":"2025-03-30T14:55:00Z"},{"user_id":26,"first_name":"Umar","last_name":"Patel","email":"umarpatel@xyz.com","role":"User","address":{"street":"63MeadowLn","city":"Edison","state":"NJ","zip_code":8817},"phone":"+1-732-2021","is_active":false,"last_login":"2025-03-25T09:00:00Z"},{"user_id":27,"first_name":"Victoria","last_name":"Hall","email":"victoriahall@xyz.com","role":"User","address":{"street":"300LakeShore","city":"Cleveland","state":"OH","zip_code":44114},"phone":"+1-216-2022","is_active":true,"last_login":"2025-03-28T17:45:00Z"},{"user_id":28,"first_name":"William","last_name":"Young","email":"williamyoung@xyz.com","role":"User","address":{"street":"91SummitAve","city":"StPaul","state":"MN","zip_code":55102},"phone":"+1-651-2023","is_active":true,"last_login":"2025-03-31T10:10:00Z"},{"user_id":29,"first_name":"Xavier","last_name":"Moore","email":"xaviermoore@xyz.com","role":"User","address":{"street":"5HarborSt","city":"Norfolk","state":"VA","zip_code":23510},"phone":"+1-757-2024","is_active":true,"last_login":"2025-03-30T19:00:00Z"},{"user_id":30,"first_name":"Yasmine","last_name":"Ali","email":"yasmineali@xyz.com","role":"User","address":{"street":"44CrescentRd","city":"Irvine","state":"CA","zip_code":92612},"phone":"+1-949-2025","is_active":true,"last_login":"2025-03-29T21:15:00Z"},{"user_id":31,"first_name":"Zachary","last_name":"Nelson","email":"zacharynelson@xyz.com","role":"User","address":{"street":"88HarborWay","city":"SanDiego","state":"CA","zip_code":92101},"phone":"+1-619-2026","is_active":true,"last_login":"2025-03-31T18:40:00Z"},{"user_id":32,"first_name":"Aaron","last_name":"Cole","email":"aaroncole@xyz.com","role":"User","address":{"street":"12MillSt","city":"Nashville","state":"TN","zip_code":37201},"phone":"+1-615-2027","is_active":true,"last_login":"2025-03-30T07:25:00Z"},{"user_id":33,"first_name":"Bella","last_name":"Ramos","email":"bellaramos@xyz.com","role":"User","address":{"street":"71VistaDr","city":"ElPaso","state":"TX","zip_code":79901},"phone":"+1-915-2028","is_active":false,"last_login":"2025-03-27T22:10:00Z"},{"user_id":34,"first_name":"Caleb","last_name":"Stone","email":"calebstone@xyz.com","role":"User","address":{"street":"6OldTownRd","city":"Flagstaff","state":"AZ","zip_code":86001},"phone":"+1-928-2029","is_active":true,"last_login":"2025-03-31T06:55:00Z"},{"user_id":35,"first_name":"Diana","last_name":"Watson","email":"dianawatson@xyz.com","role":"Admin","address":{"street":"99BeaconSt","city":"Cambridge","state":"MA","zip_code":2139},"phone":"+1-617-2030","is_active":true,"last_login":"2025-03-30T20:30:00Z"},{"user_id":36,"first_name":"Ethan","last_name":"Brooks","email":"ethanbrooks@xyz.com","role":"User","address":{"street":"52ParkAve","city":"Hoboken","state":"NJ","zip_code":7030},"phone":"+1-201-2031","is_active":true,"last_login":"2025-03-29T11:50:00Z"},{"user_id":37,"first_name":"Fiona","last_name":"Grant","email":"fionagrant@xyz.com","role":"User","address":{"street":"15CliffSide","city":"SantaCruz","state":"CA","zip_code":95060},"phone":"+1-831-2032","is_active":true,"last_login":"2025-03-28T14:35:00Z"},{"user_id":38,"first_name":"George","last_name":"King","email":"georgeking@xyz.com","role":"User","address":{"street":"240UnionSt","city":"Syracuse","state":"NY","zip_code":13202},"phone":"+1-315-2033","is_active":false,"last_login":"2025-03-26T10:20:00Z"},{"user_id":39,"first_name":"Hannah","last_name":"Price","email":"hannahprice@xyz.com","role":"User","address":{"street":"66WillowWay","city":"Burlington","state":"VT","zip_code":5401},"phone":"+1-802-2034","is_active":true,"last_login":"2025-03-30T16:45:00Z"},{"user_id":40,"first_name":"Ian","last_name":"Cooper","email":"iancooper@xyz.com","role":"User","address":{"street":"8StoneBridge","city":"Dover","state":"DE","zip_code":19901},"phone":"+1-302-2035","is_active":true,"last_login":"2025-03-29T09:05:00Z"},{"user_id":41,"first_name":"Julia","last_name":"Morris","email":"juliamorris@xyz.com","role":"User","address":{"street":"120ParkLoop","city":"AnnArbor","state":"MI","zip_code":48104},"phone":"+1-734-2036","is_active":true,"last_login":"2025-03-31T13:30:00Z"},{"user_id":42,"first_name":"Kevin","last_name":"Diaz","email":"kevindiaz@xyz.com","role":"User","address":{"street":"73MissionSt","city":"SanAntonio","state":"TX","zip_code":78205},"phone":"+1-210-2037","is_active":false,"last_login":"2025-03-27T15:40:00Z"},{"user_id":43,"first_name":"Laura","last_name":"Evans","email":"lauraevans@xyz.com","role":"User","address":{"street":"28OceanDr","city":"Ventura","state":"CA","zip_code":93001},"phone":"+1-805-2038","is_active":true,"last_login":"2025-03-30T18:55:00Z"},{"user_id":44,"first_name":"Marcus","last_name":"Hill","email":"marcushill@xyz.com","role":"User","address":{"street":"190RiverWalk","city":"Richmond","state":"VA","zip_code":23219},"phone":"+1-804-2039","is_active":true,"last_login":"2025-03-31T08:10:00Z"},{"user_id":45,"first_name":"Natalie","last_name":"Reynolds","email":"nataliereynolds@xyz.com","role":"User","address":{"street":"7CherryBlossom","city":"Olympia","state":"WA","zip_code":98501},"phone":"+1-360-2040","is_active":true,"last_login":null}]}
+{
+  "users": [
+    {
+      "user_id": 1,
+      "first_name": "John",
+      "last_name": "Doe",
+      "email": "johndoe@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "123MainSt",
+        "city": "NewYork",
+        "state": "NY",
+        "zip_code": 10001
+      },
+      "phone": "+1-252-1234",
+      "is_active": true,
+      "last_login": "2025-03-28T08:30:00Z"
+    },
+    {
+      "user_id": 2,
+      "first_name": "Jane",
+      "last_name": "Smith",
+      "email": "janesmith@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "456OakSt",
+        "city": "SanFrancisco",
+        "state": "CA",
+        "zip_code": "94105"
+      },
+      "phone": "+1-252-5678",
+      "is_active": true,
+      "last_login": "2025-04-25T14:45:00Z"
+    },
+    {
+      "user_id": 3,
+      "first_name": "Alice",
+      "last_name": "Johnson",
+      "email": "alicej@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "789PineSt",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": "60606"
+      },
+      "phone": "+1-252-8765",
+      "is_active": false,
+      "last_login": "2025-07-29T10:20:00Z"
+    },
+    {
+      "user_id": 4,
+      "first_name": "Bob",
+      "last_name": "Brown",
+      "email": "bobbrown@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "321ElmSt",
+        "city": "LosAngeles",
+        "state": "CA",
+        "zip_code": "90001"
+      },
+      "phone": "+1-252-4321",
+      "is_active": true,
+      "last_login": "2026-09-27T16:00:00Z"
+    },
+    {
+      "user_id": 6,
+      "first_name": "Alice",
+      "last_name": "Smith",
+      "email": "alicesmith@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "45OakAve",
+        "city": "Boston",
+        "state": "MA",
+        "zip_code": 2108
+      },
+      "phone": "+1-617-2001",
+      "is_active": true,
+      "last_login": "2025-03-29T09:10:00Z"
+    },
+    {
+      "user_id": 7,
+      "first_name": "Brian",
+      "last_name": "Johnson",
+      "email": "brianjohnson@xyz.com",
+      "role": "Admin",
+      "address": {
+        "street": "78PineRd",
+        "city": "Seattle",
+        "state": "WA",
+        "zip_code": 98101
+      },
+      "phone": "+1-206-2002",
+      "is_active": true,
+      "last_login": "2025-03-29T10:15:00Z"
+    },
+    {
+      "user_id": 8,
+      "first_name": "Catherine",
+      "last_name": "Lee",
+      "email": "catherinelee@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "19MapleLn",
+        "city": "Chicago",
+        "state": "IL",
+        "zip_code": 60601
+      },
+      "phone": "+1-312-2003",
+      "is_active": false,
+      "last_login": "2025-03-27T14:20:00Z"
+    },
+    {
+      "user_id": 9,
+      "first_name": "David",
+      "last_name": "Martinez",
+      "email": "davidmartinez@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "210SunsetBlvd",
+        "city": "LosAngeles",
+        "state": "CA",
+        "zip_code": 90001
+      },
+      "phone": "+1-310-2004",
+      "is_active": true,
+      "last_login": "2025-03-30T11:45:00Z"
+    },
+    {
+      "user_id": 10,
+      "first_name": "Emily",
+      "last_name": "Clark",
+      "email": "emilyclark@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "33RiverSt",
+        "city": "Denver",
+        "state": "CO",
+        "zip_code": 80202
+      },
+      "phone": "+1-303-2005",
+      "is_active": true,
+      "last_login": "2025-03-29T16:05:00Z"
+    },
+    {
+      "user_id": 11,
+      "first_name": "Frank",
+      "last_name": "Wright",
+      "email": "frankwright@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "11LakeView",
+        "city": "Madison",
+        "state": "WI",
+        "zip_code": 53703
+      },
+      "phone": "+1-608-2006",
+      "is_active": true,
+      "last_login": "2025-03-28T12:00:00Z"
+    },
+    {
+      "user_id": 12,
+      "first_name": "Grace",
+      "last_name": "Harris",
+      "email": "graceharris@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "402ElmSt",
+        "city": "Austin",
+        "state": "TX",
+        "zip_code": 73301
+      },
+      "phone": "+1-512-2007",
+      "is_active": true,
+      "last_login": "2025-03-30T08:40:00Z"
+    },
+    {
+      "user_id": 13,
+      "first_name": "Henry",
+      "last_name": "Nguyen",
+      "email": "henrynguyen@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "9Broadway",
+        "city": "NewYork",
+        "state": "NY",
+        "zip_code": 10002
+      },
+      "phone": "+1-212-2008",
+      "is_active": false,
+      "last_login": "2025-03-26T17:30:00Z"
+    },
+    {
+      "user_id": 14,
+      "first_name": "Isabella",
+      "last_name": "Perez",
+      "email": "isabellaperez@xyz.com",
+      "role": "Admin",
+      "address": {
+        "street": "77PalmDr",
+        "city": "Miami",
+        "state": "FL",
+        "zip_code": 33101
+      },
+      "phone": "+1-305-2009",
+      "is_active": true,
+      "last_login": "2025-03-31T09:55:00Z"
+    },
+    {
+      "user_id": 15,
+      "first_name": "Jack",
+      "last_name": "Olsen",
+      "email": "jackolsen@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "55HillRd",
+        "city": "Portland",
+        "state": "OR",
+        "zip_code": 97201
+      },
+      "phone": "+1-503-2010",
+      "is_active": true,
+      "last_login": "2025-03-29T13:15:00Z"
+    },
+    {
+      "user_id": 16,
+      "first_name": "Karen",
+      "last_name": "Adams",
+      "email": "karenadams@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "600MarketSt",
+        "city": "SanFrancisco",
+        "state": "CA",
+        "zip_code": 94103
+      },
+      "phone": "+1-415-2011",
+      "is_active": true,
+      "last_login": "2025-03-30T15:25:00Z"
+    },
+    {
+      "user_id": 17,
+      "first_name": "Leo",
+      "last_name": "Baker",
+      "email": "leobaker@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "18CedarCt",
+        "city": "Boise",
+        "state": "ID",
+        "zip_code": 83702
+      },
+      "phone": "+1-208-2012",
+      "is_active": false,
+      "last_login": "2025-03-25T11:00:00Z"
+    },
+    {
+      "user_id": 18,
+      "first_name": "Mia",
+      "last_name": "Turner",
+      "email": "miaturner@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "92GardenWay",
+        "city": "Salem",
+        "state": "OR",
+        "zip_code": 97301
+      },
+      "phone": "+1-971-2013",
+      "is_active": true,
+      "last_login": "2025-03-28T10:45:00Z"
+    },
+    {
+      "user_id": 19,
+      "first_name": "Noah",
+      "last_name": "Kim",
+      "email": "noahkim@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "31UnionSq",
+        "city": "SanJose",
+        "state": "CA",
+        "zip_code": 95112
+      },
+      "phone": "+1-408-2014",
+      "is_active": true,
+      "last_login": "2025-03-29T18:20:00Z"
+    },
+    {
+      "user_id": 20,
+      "first_name": "Olivia",
+      "last_name": "Brown",
+      "email": "oliviabrown@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "77BaySt",
+        "city": "Tampa",
+        "state": "FL",
+        "zip_code": 33602
+      },
+      "phone": "+1-813-2015",
+      "is_active": true,
+      "last_login": "2025-03-30T09:35:00Z"
+    },
+    {
+      "user_id": 21,
+      "first_name": "Paul",
+      "last_name": "Reed",
+      "email": "paulreed@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "14SpruceLn",
+        "city": "Albany",
+        "state": "NY",
+        "zip_code": 12207
+      },
+      "phone": "+1-518-2016",
+      "is_active": false,
+      "last_login": "2025-03-26T16:10:00Z"
+    },
+    {
+      "user_id": 22,
+      "first_name": "Quinn",
+      "last_name": "Foster",
+      "email": "quinnfoster@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "88RidgeRd",
+        "city": "Boulder",
+        "state": "CO",
+        "zip_code": 80302
+      },
+      "phone": "+1-720-2017",
+      "is_active": true,
+      "last_login": "2025-03-31T07:50:00Z"
+    },
+    {
+      "user_id": 23,
+      "first_name": "Rachel",
+      "last_name": "Scott",
+      "email": "rachelscott@xyz.com",
+      "role": "Admin",
+      "address": {
+        "street": "201CapitolAve",
+        "city": "Phoenix",
+        "state": "AZ",
+        "zip_code": 85001
+      },
+      "phone": "+1-602-2018",
+      "is_active": true,
+      "last_login": "2025-03-30T12:30:00Z"
+    },
+    {
+      "user_id": 24,
+      "first_name": "Samuel",
+      "last_name": "Green",
+      "email": "samuelgreen@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "9ForestDr",
+        "city": "Asheville",
+        "state": "NC",
+        "zip_code": 28801
+      },
+      "phone": "+1-828-2019",
+      "is_active": true,
+      "last_login": "2025-03-29T08:20:00Z"
+    },
+    {
+      "user_id": 25,
+      "first_name": "Tina",
+      "last_name": "Lopez",
+      "email": "tinalopez@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "410CanyonRd",
+        "city": "SantaFe",
+        "state": "NM",
+        "zip_code": 87501
+      },
+      "phone": "+1-505-2020",
+      "is_active": true,
+      "last_login": "2025-03-30T14:55:00Z"
+    },
+    {
+      "user_id": 26,
+      "first_name": "Umar",
+      "last_name": "Patel",
+      "email": "umarpatel@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "63MeadowLn",
+        "city": "Edison",
+        "state": "NJ",
+        "zip_code": 8817
+      },
+      "phone": "+1-732-2021",
+      "is_active": false,
+      "last_login": "2025-03-25T09:00:00Z"
+    },
+    {
+      "user_id": 27,
+      "first_name": "Victoria",
+      "last_name": "Hall",
+      "email": "victoriahall@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "300LakeShore",
+        "city": "Cleveland",
+        "state": "OH",
+        "zip_code": 44114
+      },
+      "phone": "+1-216-2022",
+      "is_active": true,
+      "last_login": "2025-03-28T17:45:00Z"
+    },
+    {
+      "user_id": 28,
+      "first_name": "William",
+      "last_name": "Young",
+      "email": "williamyoung@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "91SummitAve",
+        "city": "StPaul",
+        "state": "MN",
+        "zip_code": 55102
+      },
+      "phone": "+1-651-2023",
+      "is_active": true,
+      "last_login": "2025-03-31T10:10:00Z"
+    },
+    {
+      "user_id": 29,
+      "first_name": "Xavier",
+      "last_name": "Moore",
+      "email": "xaviermoore@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "5HarborSt",
+        "city": "Norfolk",
+        "state": "VA",
+        "zip_code": 23510
+      },
+      "phone": "+1-757-2024",
+      "is_active": true,
+      "last_login": "2025-03-30T19:00:00Z"
+    },
+    {
+      "user_id": 30,
+      "first_name": "Yasmine",
+      "last_name": "Ali",
+      "email": "yasmineali@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "44CrescentRd",
+        "city": "Irvine",
+        "state": "CA",
+        "zip_code": 92612
+      },
+      "phone": "+1-949-2025",
+      "is_active": true,
+      "last_login": "2025-03-29T21:15:00Z"
+    },
+    {
+      "user_id": 31,
+      "first_name": "Zachary",
+      "last_name": "Nelson",
+      "email": "zacharynelson@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "88HarborWay",
+        "city": "SanDiego",
+        "state": "CA",
+        "zip_code": 92101
+      },
+      "phone": "+1-619-2026",
+      "is_active": true,
+      "last_login": "2025-03-31T18:40:00Z"
+    },
+    {
+      "user_id": 32,
+      "first_name": "Aaron",
+      "last_name": "Cole",
+      "email": "aaroncole@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "12MillSt",
+        "city": "Nashville",
+        "state": "TN",
+        "zip_code": 37201
+      },
+      "phone": "+1-615-2027",
+      "is_active": true,
+      "last_login": "2025-03-30T07:25:00Z"
+    },
+    {
+      "user_id": 33,
+      "first_name": "Bella",
+      "last_name": "Ramos",
+      "email": "bellaramos@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "71VistaDr",
+        "city": "ElPaso",
+        "state": "TX",
+        "zip_code": 79901
+      },
+      "phone": "+1-915-2028",
+      "is_active": false,
+      "last_login": "2025-03-27T22:10:00Z"
+    },
+    {
+      "user_id": 34,
+      "first_name": "Caleb",
+      "last_name": "Stone",
+      "email": "calebstone@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "6OldTownRd",
+        "city": "Flagstaff",
+        "state": "AZ",
+        "zip_code": 86001
+      },
+      "phone": "+1-928-2029",
+      "is_active": true,
+      "last_login": "2025-03-31T06:55:00Z"
+    },
+    {
+      "user_id": 35,
+      "first_name": "Diana",
+      "last_name": "Watson",
+      "email": "dianawatson@xyz.com",
+      "role": "Admin",
+      "address": {
+        "street": "99BeaconSt",
+        "city": "Cambridge",
+        "state": "MA",
+        "zip_code": 2139
+      },
+      "phone": "+1-617-2030",
+      "is_active": true,
+      "last_login": "2025-03-30T20:30:00Z"
+    },
+    {
+      "user_id": 36,
+      "first_name": "Ethan",
+      "last_name": "Brooks",
+      "email": "ethanbrooks@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "52ParkAve",
+        "city": "Hoboken",
+        "state": "NJ",
+        "zip_code": 7030
+      },
+      "phone": "+1-201-2031",
+      "is_active": true,
+      "last_login": "2025-03-29T11:50:00Z"
+    },
+    {
+      "user_id": 37,
+      "first_name": "Fiona",
+      "last_name": "Grant",
+      "email": "fionagrant@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "15CliffSide",
+        "city": "SantaCruz",
+        "state": "CA",
+        "zip_code": 95060
+      },
+      "phone": "+1-831-2032",
+      "is_active": true,
+      "last_login": "2025-03-28T14:35:00Z"
+    },
+    {
+      "user_id": 38,
+      "first_name": "George",
+      "last_name": "King",
+      "email": "georgeking@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "240UnionSt",
+        "city": "Syracuse",
+        "state": "NY",
+        "zip_code": 13202
+      },
+      "phone": "+1-315-2033",
+      "is_active": false,
+      "last_login": "2025-03-26T10:20:00Z"
+    },
+    {
+      "user_id": 39,
+      "first_name": "Hannah",
+      "last_name": "Price",
+      "email": "hannahprice@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "66WillowWay",
+        "city": "Burlington",
+        "state": "VT",
+        "zip_code": 5401
+      },
+      "phone": "+1-802-2034",
+      "is_active": true,
+      "last_login": "2025-03-30T16:45:00Z"
+    },
+    {
+      "user_id": 40,
+      "first_name": "Ian",
+      "last_name": "Cooper",
+      "email": "iancooper@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "8StoneBridge",
+        "city": "Dover",
+        "state": "DE",
+        "zip_code": 19901
+      },
+      "phone": "+1-302-2035",
+      "is_active": true,
+      "last_login": "2025-03-29T09:05:00Z"
+    },
+    {
+      "user_id": 41,
+      "first_name": "Julia",
+      "last_name": "Morris",
+      "email": "juliamorris@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "120ParkLoop",
+        "city": "AnnArbor",
+        "state": "MI",
+        "zip_code": 48104
+      },
+      "phone": "+1-734-2036",
+      "is_active": true,
+      "last_login": "2025-03-31T13:30:00Z"
+    },
+    {
+      "user_id": 42,
+      "first_name": "Kevin",
+      "last_name": "Diaz",
+      "email": "kevindiaz@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "73MissionSt",
+        "city": "SanAntonio",
+        "state": "TX",
+        "zip_code": 78205
+      },
+      "phone": "+1-210-2037",
+      "is_active": false,
+      "last_login": "2025-03-27T15:40:00Z"
+    },
+    {
+      "user_id": 43,
+      "first_name": "Laura",
+      "last_name": "Evans",
+      "email": "lauraevans@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "28OceanDr",
+        "city": "Ventura",
+        "state": "CA",
+        "zip_code": 93001
+      },
+      "phone": "+1-805-2038",
+      "is_active": true,
+      "last_login": "2025-03-30T18:55:00Z"
+    },
+    {
+      "user_id": 44,
+      "first_name": "Marcus",
+      "last_name": "Hill",
+      "email": "marcushill@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "190RiverWalk",
+        "city": "Richmond",
+        "state": "VA",
+        "zip_code": 23219
+      },
+      "phone": "+1-804-2039",
+      "is_active": true,
+      "last_login": "2025-03-31T08:10:00Z"
+    },
+    {
+      "user_id": 45,
+      "first_name": "Natalie",
+      "last_name": "Reynolds",
+      "email": "nataliereynolds@xyz.com",
+      "role": "User",
+      "address": {
+        "street": "7CherryBlossom",
+        "city": "Olympia",
+        "state": "WA",
+        "zip_code": 98501
+      },
+      "phone": "+1-360-2040",
+      "is_active": true,
+      "last_login": null
+    },
+    {
+      "first_name": "Harry",
+      "last_name": "Potter",
+      "email": "harrypotter@xyz.com",
+      "role": "Admin",
+      "address": {
+        "street": "123MainSt",
+        "city": "California",
+        "state": "CA",
+        "zip_code": 12345
+      },
+      "phone": "+1-462-1234",
+      "is_active": true,
+      "last_login": "2026-01-28T08:30:00Z"
+    }
+  ]
+}
